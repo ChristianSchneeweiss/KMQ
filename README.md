@@ -16,3 +16,9 @@ The easiest way to use the message queue without any customisation.
 
     queue.publish(Channel.DEFAULT)
 ```
+
+## Download
+
+JAR is available at [https://kmq.s3.fr-par.scw.cloud/core-0.1.0.jar](https://kmq.s3.fr-par.scw.cloud/core-0.1.0.jar).
+
+In general versions are available at `https://kmq.s3.fr-par.scw.cloud/core-<VERSION>.jar`.
