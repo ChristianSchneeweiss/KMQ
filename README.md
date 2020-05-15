@@ -19,6 +19,6 @@ The easiest way to use the message queue without any customisation.
 
 ## Download
 
-JAR is available at [https://kmq.s3.fr-par.scw.cloud/core-0.1.0.jar](https://kmq.s3.fr-par.scw.cloud/core-0.1.0.jar).
+Current version is available at [https://github.com/ChristianSchneeweiss/KMQ/releases/download/0.1.0/core-0.1.0.jar](https://github.com/ChristianSchneeweiss/KMQ/releases/download/0.1.0/core-0.1.0.jar).
 
-In general versions are available at `https://kmq.s3.fr-par.scw.cloud/core-<VERSION>.jar`.
+In general versions are available at the Github release page.
